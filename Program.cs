@@ -19,7 +19,7 @@
                 Console.Write("Unos: ");
                 unos = Console.ReadLine();
                 Console.WriteLine("Zarko nije car");
-                Console.WriteLine("Angie je carica");
+                Console.WriteLine("Angie nije carica");
 
 
             }
