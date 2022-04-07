@@ -21,6 +21,7 @@
                 Console.WriteLine("Zarko nije car");
                 Console.WriteLine("Angie nije carica");
                 Console.WriteLine("ognjencar34");
+                Console.WriteLine("Zarko ipak jeste car");
                 
 
 
