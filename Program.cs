@@ -20,6 +20,8 @@
                 unos = Console.ReadLine();
                 Console.WriteLine("Zarko nije car");
                 Console.WriteLine("Angie nije carica");
+                Console.WriteLine("ognjencar34");
+                
 
 
             }
