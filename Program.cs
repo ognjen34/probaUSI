@@ -18,7 +18,7 @@
                 }
                 Console.Write("Unos: ");
                 unos = Console.ReadLine();
-                Console.WriteLine("Zarko je car");
+                Console.WriteLine("Zarko nije car");
                 Console.WriteLine("Angie je carica");
 
 
